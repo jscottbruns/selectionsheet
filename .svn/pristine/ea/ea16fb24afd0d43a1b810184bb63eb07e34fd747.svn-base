@@ -1,0 +1,22 @@
+td {
+	font: 11px verdana, geneva, lucida, lucida grande, arial, helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.login_tbl {
+	font-family:Tahoma;
+	font-size:11px;
+	color:#000000;
+	margin:5px;
+	border:1 solid #2d5887;
+	background-color:#6699cc
+}
+
+#loginHead {
+	font-size:14px;
+	font-weight:bold;
+	width:500;
+}

@@ -1,0 +1,36 @@
+<!--
+.mouseOver {
+	background-color:#efefef;
+	cursor:hand;
+}
+.normal {
+	background-color:#ffffff;
+}
+.mouseDown {
+	background-color:#8c8c8c;
+	cursor:hand;
+}
+
+.Title{
+     width:            200px;
+     background-color: #E6E6E6;
+	 border:1px solid #ff0000;
+     color:            #000000;
+     font-family:      tahoma;
+     font-size:        10px;
+     font-weight:      bold;
+     padding:          2px;
+}
+.Drag,.DragH{
+     cursor:           hand;
+     position:         relative;
+     padding:          1px;
+     overflow:         hidden;
+}
+.Window{
+     position:         relative;
+}
+.DragH{
+     position:         absolute;
+}
+-->

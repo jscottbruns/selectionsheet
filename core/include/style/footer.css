@@ -1,0 +1,33 @@
+/* CSS Document */
+.footer_tbl {
+	width:100%;
+	text-align:center;
+	margin:10px 0 0 0;
+	background-color:#dfdfdf;
+	border-style:solid;
+	border-width:1px 0;
+	border-color:#9f9f9f;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#4e78b3;
+}
+
+.footer_left {
+	font-size:8pt;
+	color:#4e78b3;
+}
+.footer_left A:link {
+	color:#4e78b3;
+	text-decoration:none;
+}
+.footer_left A:active {
+	color:#4e78b3;
+	text-decoration:none;
+}
+.footer_left A:visited {
+	color:#4e78b3;
+	text-decoration:none;
+}
+.footer_left A:hover {
+	color:#4e78b3;
+	text-decoration:underline;
+}

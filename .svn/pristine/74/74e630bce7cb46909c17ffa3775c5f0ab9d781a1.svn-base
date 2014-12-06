@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>UBO-SOFT GraphingCalc 1.0</title>
+</head>
+<body bgcolor="#000000">
+<center>
+<applet code="GraphingApplet" archive="graphingCalc.jar" width="800" height="570">
+</applet>
+<br/>
+<a style="font-family:Arial;font-size:10;color:#FFFFFF;text-decoration:underline;" href="graphCalcApplet2.html">If Applet does not initialize in <b>30 sec</b> click here</a>
+</center>
+</body>
+</html>

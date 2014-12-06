@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-style-type" content="text/css">
+<title>Using this Online Help System</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="../default_ns.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='../default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+p.whs1 { font-style:italic; }
+img_whs2 { border:none; width:15px; height:17px; float:none; border-style:none; }
+ul.whs4 { list-style:disc; }
+img_whs5 { border:none; width:16px; height:16px; border-style:none; }
+img_whs6 { border:none; width:14px; height:14px; border-style:none; }
+p.whs7 { font-weight:bold; }
+img_whs8 { border:none; width:22px; height:15px; border-style:none; }
+p.whs9 { font-weight:normal; }
+ul.whs3 { list-style:disc; }
+-->
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+        origWidth = innerWidth;
+        origHeight = innerHeight;
+        onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style>
+
+<script type="text/javascript" language="javascript1.2" src="../whmsg.js">
+</script>
+<script type="text/javascript" language="javascript" src="../whver.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="../whproxy.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="../whutils.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="../whtopic.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+        if (window.addTocInfo)
+        {
+        addTocInfo("Getting Started\nUsing this Online Help System");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+        }
+        if (window.writeBtnStyle)
+                writeBtnStyle();
+
+        if (window.writeIntopicBar)
+                writeIntopicBar(1);
+
+        if (window.setRelStartPage)
+        {
+        setRelStartPage("../index.htm");
+
+                autoSync(1);
+                sendSyncInfo();
+                sendAveInfoOut();
+        }
+}
+else
+        if (window.gbIE4)
+                document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" src="../ehlpdhtm.js">
+</script><script type="text/javascript" language="JavaScript1.2">
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+<h1>Using this Online Help System</h1>
+<p>The SelectionSheet.Com Online Help system will guide you through the tasks necessary to schedule and manage your construction projects using all of the functions of SelectionSheet.Com.</p>
+<p class="whs1"><span style="font-weight:bold;"><b><img src="../images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs2" alt=""> Note:</b></span> When you access this Online Help, if an information bar displays the following prompt: "To help protect your security, Internet Explorer has restricted this file from showing active content that could access your computer. Click here for options...", click the information bar, select <span style="font-weight:bold;"><b>Allow Blocked Content</b></span>, and click <span style="font-weight:bold;"><b>Yes</b></span>.</p>
+<p>The following are some important features found in this Online Help:</p>
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-weight:bold;">Drop down text<span style="font-weight:normal;"><br>
+Throughout this Help system, drop down text is used to provide information on demand.<br>
+When you see a note, simply click on the text and the note will expand. All notes should be read at least once.<br>
+<br>
+For example, click on the following text:</span><a class="dropspot" href="javascript:kadovTextPopup(this)" id="a1"><span style="font-style:italic;"><i><br>
+<img src="../images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs2" alt=""></i></span> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span><span style="font-weight:normal; font-style:italic;"><i>Click here to see this note...</i></span></a></p>
+<div class="droptext" id="POPUP86545413" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs1">...expand. Click the link again to collapse this expanded text.</p>
+</div>
+</li>
+</ul>
+<p class="listBulleted" style="font-weight:bold; margin-left:40px;"><span style="font-weight:normal;">All expanding text in a topic can opened or closed by clicking</span> Show/Hide Drop Down Text <span style="font-weight:normal;">on the Help System toolbar.</span></p>
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-weight:bold;">Links<span style="font-weight:normal;"><br>
+Links are included throughout the Help system. They provide a shortcut to related information or more task-specific instructions.</span></p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-weight:bold;">Toolbar<span style="font-weight:normal;"><br>
+This Help system includes the following buttons along the top of the Help screen:</span></p>
+</li>
+</ul>
+<ul type="disc" class="whs3">
+<li style="list-style:none; display:inline;">
+<ul type="disc" class="whs4">
+<li class="kadov-p">
+<p><span style="font-weight:bold;"><b>Contents</b></span><br>
+Displays the Contents pane on the left-hand side of the browser window. Books are represented by <img src="../image10.gif" width="16px" height="16px" border="0" class="img_whs5" alt=""> (or <img src="../image11.gif" width="16px" height="16px" border="0" class="img_whs5" alt=""> if opened). Topic links are represented by <img src="../image12.gif" width="14px" height="14px" border="0" class="img_whs6" alt="">. Click a book to display its list of topics. Click a topic link to view it. .</p>
+</li>
+<li class="kadov-p">
+<p class="whs7">Index<span style="font-weight:normal;"><br>
+Displays the Index pane on the left-hand side of the browser window. Type the first few letters of the word you are looking for or scroll through the list of index entries. Then, click the closest matching word to display the topic.</span></p>
+</li>
+<li class="kadov-p">
+<p class="whs7">Search<span style="font-weight:normal;"><br>
+Displays the Search pane on the left-hand side of the browser window. Type the word you are searching for and click <img src="../image9.gif" width="22px" height="15px" border="0" class="img_whs8" alt="">. A list of any topics containing the word displays. Click on a topic name to display the topic.</span></p>
+</li>
+<li class="kadov-p">
+<p class="whs7">Glossary<span style="font-weight:normal;"><br>
+Displays the Glossary pane on the left-hand side of the browser window. Scroll through the list of glossary entries and select the word you want. The definition for the word displays below the list of glossary entries.</span></p>
+</li>
+<li class="kadov-p">
+<p class="whs9"><span style="font-weight:bold;"><b>Show/Hide Drop Down Text</b></span><br>
+Shows/hides all drop down text in the current topic. Use this button if you want to make sure you don't miss any important notes or information. Click to show all text. Click again to hide drop down text.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p class="whs7">&#160;</p>
+<script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a1','POPUP86545413');
+//-->
+</script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+        writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

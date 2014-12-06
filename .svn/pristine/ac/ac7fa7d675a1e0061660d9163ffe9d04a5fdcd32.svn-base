@@ -1,0 +1,15 @@
+td.ygmabk { background:#efefef url(images/uh_bk.gif) bottom repeat-x;border-style:solid;border-width:1px 0;	border-color:#9f9f9f; }
+td.ygmatcrn { background:#efefef url(images/uh_tcrn.gif) bottom left no-repeat; }
+td.ygmatcrnb { background:#efefef url(images/uh_tcrn_b.gif) bottom right no-repeat; }
+td.ygmacrn { background:url(images/uh_bk.gif) repeat-x; }
+td.ygmacrnb { background:#fff url(images/uh_crn_b.gif) repeat-x; }
+td.ygmabk input { font:110% verdana,geneva,sans-serif; }
+#ygma td { margin:0; text-align:left; }
+#ygma .ygbt { background:#dcdcdc; }
+#ygmalinks { padding:4px 10px; }
+.ygmabk a { color:#000; text-decoration:none;}
+#ygmasearch { padding-right:6px; }
+#ygmalogo { margin:3px 5px 0 0 ; }
+#ygmagreet { padding:5px 0 5px 0; vertical-align:top; line-height:12px; }
+#ygmagreet a { text-decoration:none}
+td#ygmaproplinks { vertical-align:top; padding:2px 0 10px 0; text-align:right; }

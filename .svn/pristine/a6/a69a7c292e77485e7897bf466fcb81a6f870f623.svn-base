@@ -1,0 +1,461 @@
+<style type="text/css">
+/* CSS Document */
+.cap{font-weight:bold; text-decoration:underline; color:#ffffff}
+.menu{font-family:Tahoma;font-size:9px;color:#c4c4c4;font-weight:bold;text-decoration:none;}
+/*input.home{font: 10px arial, verdana, helvetica, tahoma, verdana, sans serif; font-weight: bold; border: solid 1px #000000; width: 100px; background-color:#eeeeee;}*/
+/*input.select {border: solid 0px #666666; background-color: #F6f6f6;}
+input.button {font: 10px verdana, helvetica, tahoma, verdana, sans serif; font-weight: bold; border: solid 1px #666666;}
+input,submit {font: 10px verdana, helvetica, tahoma, verdana, sans serif; font-weight: bold; border: 0px;}
+input.radio {font-family : Verdana; font-size : 11px;}
+input,textarea, select {font-family : Verdana; font-size : 12px; background-color : #ffffff; }
+input.checkbox {border: solid 0px #666666;background-color : #dfdfdf;}*/
+form { display: inline; }
+/*Begin onclick drop down menu for the running schedule*/
+#menu1 { display : none }
+#menu2 { display : none }
+#menu3 { display : none }
+
+.button {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:800;
+	color:#4D4D4D;
+	background-color:#ffffff;
+}
+
+.textbox {
+	border:1px solid #666699;
+}
+
+/*End onclick drop down*/
+
+.default {
+	font-family:tahoma;
+	font-size:10pt;
+}
+
+.accent {
+	font-weight:bold;
+	color:#FFC709;
+}
+
+.footer{color:#cccccc;font-family:verdana;font-size:11}
+.footer A:link{color:#cccccc}
+.footer A:active{color:#cccccc}
+.footer A:visited{color:#cccccc}
+.footer A:hover{color:#e2c462}
+
+.error_msg{color:#e60000;font-size:10pt;font-weight:bold;}
+
+.search_tbl{width:250px;border-width:1px;border-style:solid;border-color:#ccccff;color:#ffffff;}
+.search_row_top{color:#ffffff;text-align:center;background-color:#333399}
+.search_row_btm{color:#000000;background-color:#fed649;text-align:center;}
+
+.cal_pop{width:95%;border-style:solid;border-color:#333399;border-width:1px;color:#ffffff;text-align:center;}
+
+.logout {
+	width:800px;
+	margin:20px 0;
+ 	font-family:tahoma;
+	font-size:11pt;
+	text-align:center;
+	color:#000000;
+}
+
+.status_tbl {
+	width:300px;
+	margin:10px;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	background-color:#dfdfdf;
+	font-family:tahoma,arial;
+	font-size:10pt;
+	color:#000000;
+}
+
+.panel
+{
+	background: #efefef;
+	color: #000000;
+	padding: 10px;
+	border: 2px outset;
+	background-image: url(images/stripes.gif);
+}
+.panelsurround
+{
+	background: #dfdfdf;
+	color: #000000;
+}
+
+.tborder
+{
+ 	font: 10pt verdana, geneva,;
+	background-color: #FFFFFF;
+	color: #000000;
+	border: 1px solid #AAC8C8;
+}
+.tborder a:link, .tborder a:active, .tborder a:visited {
+  color:000000;
+}
+.tborder a:hover {
+  color:000000;
+}
+
+
+.tborder2
+{
+ 	font: 10pt verdana, geneva,;
+	color: #000000;
+}
+.tborder2 a:link, .tborder a:active, .tborder a:visited {
+  color:000000;
+}
+.tborder2 a:hover {
+  color:000000;
+}
+
+.tcat
+{
+	background-color: #0A58AA;
+	color: #FFFFFF;
+	font: bold 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding:3px;
+}
+.tcat a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tcat a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.thead
+{
+	background-color: #0A58AA;
+	color: #ffffff;
+	/*color used to be FFCC66*/
+	font: bold 13px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link
+{
+	color: #FFCC66;
+}
+.thead a:visited
+{
+	color: #FFCC66;
+}
+.thead a:hover, .thead a:active
+{
+	color: #ffffff;
+}
+.tfoot
+{
+	background-color: #FFCC66;
+	color: #FFFFFF;
+}
+.tfoot a:link
+{
+	color: #000000;
+}
+.tfoot a:visited
+{
+	color: #000000;
+}
+.tfoot a:hover, .tfoot a:active
+{
+	color: #000000;
+}
+.alt1, .alt1Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+}
+.alt1_nav {
+	background-color: #EFEFEF;
+	color:#22229c;
+	font-size:11px;
+}
+.alt1_nav A:link {color:#22229c;}
+.alt1_nav A:active {color:#22229c;}
+.alt1_nav A:visited {color:#22229c;}
+.alt1_nav A:hover {color:#22229c;}
+
+.alt2, .alt2Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+.alt3
+{
+	background-color: #D5D8E5;
+	color: #000000;
+}
+.smallfont
+{
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+.toplink
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+.toplink a:link, .toplink a:active, .toplink a:visited {
+	color:#9f9f9f;
+}
+
+.toplink a:hover {
+	color:#ffffff;
+}
+
+
+.alt1, .alt1Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+}
+.alt2, .alt2Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+.alt3
+{
+	background-color: #D5D8E5;
+	color: #000000;
+}
+
+
+.vbmenu_control
+{
+	background-color: #ffffff;
+	color: #000000;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background-color: #FFFFFF;
+	color: #000000;
+	border: 1px solid #0B198C;
+}
+.vbmenu_option
+{
+	background-color: #BBC7CE;
+	color: #000000;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link
+{
+	color: #22229C;
+	text-decoration: none;
+}
+.vbmenu_option a:visited
+{
+	color: #22229C;
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background-color: #8A949E;
+	color: #FFFFFF;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 12px; }
+
+legend {font-weight:bold;font-size:14px;}
+/*ES Cal Style Sheet */
+/* Main Table Setup Incluidng Date Number Fonts, Size and Color */
+.mainTable {
+	background-color: #FFFFFF;
+	border: 1px solid #003366;
+ }
+
+/* Month and Year Row Setup */
+.monthYearRow {
+    line-height: 17pt;
+	background-color: #FFFFFF;
+	text-align: center;
+	vertical-align: middle;
+	background-image: url(monthBg.gif);
+	}
+/* Month and Year Text Setup */
+.monthYearText {
+	font-family: Geneva, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: Bold;
+	color: #252216;
+	}
+
+/* Day Names Row Setup */
+.dayNamesRow {
+    line-height: 11pt;
+	background-color: #F5F4D3;
+	text-align: center;
+	vertical-align: middle;
+	}
+/* Day Name Setup */
+.dayNamesText {
+    font-family: Geneva, Verdana, Arial, sans-serif; 
+	font-size: 10px; 
+	font-weight: Bold; 
+	color: #433D27;
+	background-image: url(dayBg.gif);
+	}
+
+/* Alignments, Font Face, Size and Color for Date Numbers and Row Height */
+.rows {
+	font-family: Geneva, Verdana, Arial, sans-serif;
+	font-size: 10px;
+	color: #433D27;
+    line-height: 15pt;
+	text-align: center;
+	vertical-align: middle;
+	}
+
+/* Color of Today's Date */
+.today {
+	color: #CF0000;
+    }
+/*
+
+/* OverLIB popup text size */
+.oLib {
+    font-family: Geneva, Verdana, Arial, sans-serif; 
+	font-size: 10px; 
+    }
+/*
+
+---------------------------------------------------------------------------
+The classes below determine how the calendar background markings will look.
+---------------------------------------------------------------------------
+
+Remove the "background-image..." lines to remove graphics as table cell background images.
+
+If you do use images, change the "background-color..." to a sililar color to that
+of your image. This will help persons with slow connections to see the event markings.
+
+You can optionally remove the "background-color..." lines to only use graphics.
+
+*/
+
+/* Normal Cell Background (date number with no event markings) */
+.s2 {
+	background-image:  url("cdef.gif");
+	background-color: #EEEEEE;
+	}
+/* Empty Cell Background (empty cells with no date numbers) */
+.s20 {
+	background-image:  url("cdef5.gif");
+	background-color: #EBEBEB;
+	}
+/* Mark Start Cell Background (usually a slashed graphic to show availability or solid for events) */
+.s21 {
+	background-image:  url("cdef2.gif");
+	background-color: #F5E0D8;
+	}
+/* Mark Solid Cell Background (solid marked event date background) */
+.s22 {
+	background-image:  url("cdef2.gif");
+	background-color: #F5E0D8;
+	}
+/* Mark End Cell Background (usually a slashed graphic to show availability or solid for events) */
+.s23 {
+	background-image:  url("cdef2.gif");
+	background-color: #F5E0D8;
+	}
+/* Mark End/Start Cell Background (usually a slashed graphic to show availability or solid for events) */
+.s24 {
+	background-image:  url("cdef2.gif");
+	background-color: #F5E0D8;
+	}
+	
+/* End ES Cal Style */
+
+.highlightRowOn {
+	background-color:#ccffcc;
+}
+.highlightRowOff {
+	background-color:#dddddd;
+}
+
+.forum_thead {
+	background: 0A58AA url('images/gradient_thead.gif') repeat-x top left;
+	color: #FFFFFF;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+.imagebuttonbackground {
+	background: #ECE9D8;
+	color: #000000;
+	padding: 1px;
+	border: none;
+}
+
+
+.imagebutton {
+	background: #ECE9D8;
+	border:1 solid #ECE9D8;
+}
+.imagebuttonover {
+	background-color: #C1D2EE;
+	border:1 solid #316AC5;
+	cursor:pointer;
+}

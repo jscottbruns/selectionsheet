@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<TITLE>SelectionSheet :: Real Time&hellip;Build Time :: Construction Management</TITLE>
+
+<script language="JavaScript">
+function popUp(winurl,winname,winfeatures) {
+	window.open(winurl,winname,winfeatures);
+}
+
+</script>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style></head>
+<body bgcolor="#acbdd1">
+<!--url's used in the movie-->
+<!--text used in the movie-->
+<table align="center">
+<tr>
+<td>
+<div style="display:none ">
+	<h2>Construction Scheduling - Production Manager</h2>
+	Our approach to the production manager is simple, show you what you need to see, give you the information you need to make decisions, and do it all in a clear and concise manner.
+	<br />
+	The production manager’s module of SelectionSheet.com is tightly linked with every aspect of the superintendent module. We give you the tools to run countless reports on the production performance of you superintendents, subcontractors and all your production lots as a whole. Log in, and in less than 10 seconds you’ll see exactly which lots will meet their deadline and those that won’t, guaranteed!
+</div>
+<div style="display:none ">
+	<h3>Construction Projects, Lots & Blocks and their status</h3>
+	You’re responsible for countless lots, all with their unique problems and issues. With so much going on it’s often easy to miss those lots which are creeping on their deadline, and those that have already surpassed. 
+	<br />
+	Similar to elevations, you create your building projects or types. You tag each project with a yellow value and a red value, in days. Your red value is the deadline for that project, indicating that it should take no more than x days to complete that project. Similarly, the yellow value is used to warn you that the lot is approaching its deadline. 
+	<br />
+	Your first view, after logging in, is quick, concise report of every one of your production lots. How far along they are, whether or not they’ll make their deadline and how close that deadline will be. Clicking on each of these lots will bring you to a detailed report of that lot.
+</div>
+<div style="display:none ">
+	<h3>Print a Detailed History of Each Task</h3>
+	It’s often difficult to zoom in on a specific problem within your production lots. A problem that may consistently push your lots over their deadline and cost thousands in mistakes. 
+	<br />
+	Through our detailed task history of each lot, you are able to identify which tasks are creating issues and those that aren’t. Within a glance, you are able to identify each task that has taken longer than supposed to, and those tasks that didn’t start on the day they were confirmed to start. 
+	Further more, after identifying problematic tasks, you can view the entire history of that task, comments that were added, status’ that were changed, and durations that were altered. Each time your superintendent makes a change a task it is logged in an easy to interpret format, designed especially for the production manager. 
+</div>
+<div style="display:none ">
+	<h3>Identify Historical Trends in Your Subcontractors</h3>
+	Similar to above, subcontractors are often the cause of over due lots. Zoom in on each subcontractor, their previous trends and their current progress. Through a quick report you can view the current progress of the subcontractor in question and identify any faults they created on their active lots. 
+	<br />
+	We give you the ability to run reports on subcontractors over time to show their historical trends. Quickly identify a subcontractor that has created flagged lots in the past 6 months up to the past 3 years. You’ll see graphical reports that will show the statistics of your subcontractors and how many lots they have completed in the allotted time. Those subs that consistently cause you to deliver your lots late can be quickly identified and eliminated, leaving you with the most efficient subcontractors available.  
+</div>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="1024" height="768" id="productpath" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="productpath.swf" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="productpath.swf" quality="high" bgcolor="#ffffff" width="1024" height="768" name="productpath" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</td>
+</tr>
+</table>
+</body>
+</html>

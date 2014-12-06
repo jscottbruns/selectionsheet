@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-style-type" content="text/css">
+<title>Share Task Templates</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="default_ns.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+p.whs1 { color:#000000; font-weight:normal; }
+img_whs2 { border:none; width:15px; height:17px; float:none; border-style:none; }
+-->
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+        origWidth = innerWidth;
+        origHeight = innerHeight;
+        onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style>
+
+<script type="text/javascript" language="javascript1.2" src="whmsg.js">
+</script>
+<script type="text/javascript" language="javascript" src="whver.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whproxy.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whutils.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whtopic.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+        if (window.addTocInfo)
+        {
+        addTocInfo("My Info\nMy Task Templates\nShare a Task Template");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+        }
+        if (window.writeBtnStyle)
+                writeBtnStyle();
+
+        if (window.writeIntopicBar)
+                writeIntopicBar(1);
+
+        if (window.setRelStartPage)
+        {
+        setRelStartPage("index.htm");
+
+                autoSync(1);
+                sendSyncInfo();
+                sendAveInfoOut();
+        }
+}
+else
+        if (window.gbIE4)
+                document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" src="./ehlpdhtm.js">
+</script><script type="text/javascript" language="JavaScript1.2">
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+<h1>Share a Task Template</h1>
+<p class="whs1">To share a task template with another SelectionSheet.Com user, do the following:</p>
+<ol>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select <span style="font-weight:bold;"><b>My Info &gt; My Task Templates</b></span>. The My Task Templates screen displays.</p>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select <span style="font-weight:bold;"><b>Share My Task Templates</b></span>. The Share My Task Templates screen displays.</p>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the drop down list to select the task template you want to share.</p>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">In the <span style="font-weight:bold;"><b>SelectSheet Username</b></span> field, enter the user name or email address of the SelectionSheet.Com user you want to share this task template with.</p>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>SUBMIT</b></span>. <span style="font-style:italic;"><i><a class="dropspot" href="javascript:kadovTextPopup(this)" id="a1"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs2" alt=""><span style="font-style:italic; font-weight:bold;"><i><b>Note:</b></i></span><span style="font-style:italic;"><i>An email will be sent to...</i></span></a></i></span></p>
+<div class="droptext" id="POPUP210565139" style="display:'none'; x-ss-type:dropdown;">
+<p>.<span style="font-style:italic;"><i>..the specified user with a link to instructions on importing your task template into their account.</i></span></p>
+</div>
+</li>
+</ol>
+<script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a1','POPUP210565139');
+//-->
+</script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+        writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

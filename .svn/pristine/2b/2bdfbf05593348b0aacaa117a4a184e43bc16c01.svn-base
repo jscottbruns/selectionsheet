@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>SelectionSheet HTML Mail</title>
+<STYLE>
+.panel
+{
+	background: #efefef;
+	color: #000000;
+	padding: 10px;
+	border: 2px outset;
+	background-image: url(images/stripes.gif);
+}
+.panelsurround
+{
+	background: #dfdfdf;
+	color: #000000;
+}
+
+.tborder
+{
+ 	font: 10pt verdana, geneva,;
+	background-color: #FFFFFF;
+	color: #000000;
+	border: 1px solid #AAC8C8;
+}
+.tborder a:link, .tborder a:active, .tborder a:visited {
+  color:000000;
+}
+.tborder a:hover {
+  color:000000;
+}
+
+
+.tborder2
+{
+ 	font: 10pt verdana, geneva,;
+	color: #000000;
+}
+.tborder2 a:link, .tborder a:active, .tborder a:visited {
+  color:000000;
+}
+.tborder2 a:hover {
+  color:000000;
+}
+
+.tcat
+{
+	background-color: #0A58AA;
+	color: #FFFFFF;
+	font: bold 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding:3px;
+}
+.tcat a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tcat a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.thead
+{
+	background-color: #0A58AA;
+	color: #FFCC66;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link
+{
+	color: #FFCC66;
+}
+.thead a:visited
+{
+	color: #FFCC66;
+}
+.thead a:hover, .thead a:active
+{
+	color: #ffffff;
+}
+.tfoot
+{
+	background-color: #FFCC66;
+	color: #FFFFFF;
+}
+.tfoot a:link
+{
+	color: #000000;
+}
+.tfoot a:visited
+{
+	color: #000000;
+}
+.tfoot a:hover, .tfoot a:active
+{
+	color: #000000;
+}
+.alt1, .alt1Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+}
+.alt1_nav {
+	background-color: #EFEFEF;
+	color:#22229c;
+	font-size:11px;
+}
+.alt1_nav A:link {color:#22229c;}
+.alt1_nav A:active {color:#22229c;}
+.alt1_nav A:visited {color:#22229c;}
+.alt1_nav A:hover {color:#22229c;}
+
+.alt2, .alt2Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+.alt3
+{
+	background-color: #D5D8E5;
+	color: #000000;
+}
+.smallfont
+{
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+.toplink
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+.toplink a:link, .toplink a:active, .toplink a:visited {
+	color:#9f9f9f;
+}
+
+.toplink a:hover {
+	color:#ffffff;
+}
+
+
+.alt1, .alt1Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+}
+.alt2, .alt2Active
+{
+	background-color: #EFEFEF;
+	color: #000000;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+}
+.alt3
+{
+	background-color: #D5D8E5;
+	color: #000000;
+}
+
+</STYLE>
+<link rel="stylesheet" href="http://beta.selectionsheet.com/include/style/header.css">
+<link rel="stylesheet" href="http://beta.selectionsheet.com/include/style/footer.css">
+<link rel="stylesheet" href="http://beta.selectionsheet.com/include/style/body.css">
+</head>
+
+<body>
+<!--BODY-->
+</body>
+</html>

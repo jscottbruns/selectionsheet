@@ -1,0 +1,90 @@
+.tbldata caption{display:none;}		
+table.tbldata{border-collapse:collapse;clear:both;font-size:12px}
+.tbldata tbody td{border-width: 0 0 1px 0;border-style: solid;padding:2px 0 2px 5px;vertical-align:center;}				
+.tbldata thead th{text-align:left;border-width:1px 1px 1px 0;border-style:solid;padding:1px 0 1px 5px; repeat-y;}
+.tbldata thead th input{margin-bottom:0px;margin-top:-1px;}
+.tbldata td img{text-align:right;}
+.tbldata th img{float:right;margin:4px 4px 0 0;} 
+.tbldata tr.msgnew{font-weight:bold;cursor:hand;}
+.tbldata thead th.iconheader{border-right-width:0;border-right-style:none;}
+.tbldata thead th#toheader,.tbldata thead th#senderheader,.tbldata thead th#recipientheader,.tbldata thead th#subjectheader{border-left-width:0;border-left-style:none;background-image:none;}
+.tbldata thead th{border-top-color:#FFF;border-bottom-color:#C1C1C1;border-right-color:#C1C1C1;background-color:#E6E6E6;} 
+.tbldata thead th.sortcol{background-color:#C1C1C1;}
+.tbldata tbody td{border-bottom-color:#E6E6E6;}
+.tbldata tr.selected td {background-color:#D6DEEC;}
+
+.apptdata thead th{text-align:left;border-width:1px 1px 1px 0;border-style:solid;padding:1px 0 1px 5px; repeat-y;}
+.apptdata thead th input{margin-bottom:0px;margin-top:-1px;}
+.apptdata td img{text-align:right;}
+.apptdata th img{float:right;margin:4px 4px 0 0;} 
+.apptdata tr.msgnew{font-weight:bold;cursor:hand;}
+.apptdata thead th.iconheader{border-right-width:0;border-right-style:none;}
+.apptdata thead th#toheader,.tbldata thead th#senderheader,.tbldata thead th#recipientheader,.tbldata thead th#subjectheader{border-left-width:0;border-left-style:none;background-image:none;}
+.apptdata thead th{border-top-color:#FFF;border-bottom-color:#C1C1C1;border-right-color:#C1C1C1;background-color:#E6E6E6;} 
+.apptdata thead th.sortcol{background-color:#C1C1C1;}
+.apptdata tbody td{border-bottom-color:#C1C1C1;border-right-color:#C1C1C1;}
+.apptdata tr.selected td {background-color:#D6DEEC;}
+
+table.messageheader td{border-bottom-style:solid;border-bottom-width:1px;padding:.5em;font:78% verdana;}
+table.messageheader td.label{font-weight:bold;width:1%;}
+table.messageheader td{border-bottom-color:#E6E6E6;}
+table.messageheader td.label{background-color:#e1ebfb;}
+div#message{font-size:100%;margin:1em 0;}
+div#message tt{font-size:1.2em;font:x-small;}
+div#message input, div#message select{vertical-align:auto;}
+div#message label{cursor:pointer;cursor:hand;}
+div#message form{margin:auto;}
+div#message h2{font-size:auto;margin:auto;}
+div#message h2 span{font-size:auto;}
+div#message ul{margin:auto;padding:auto;}
+div#message :link, div#message :link:visited{text-decoration:underline;}
+div#message{color:#000;}
+.splittercontent { border-top-width:1px;border-top-style:solid;border-bottom-width: 1px;border-bottom-style:solid;margin: 0.0em; }
+.splittercontent td.title {  padding-left:.5em; font-weight:bold; }
+.splittercontent {border-top-color: #ffffff;border-bottom-color: #c1c1c1;background-color:#e6e6e6;}
+.tabfolder .tabfoldercontent  { border-color: #3d77cb; }
+.tabfolder {  margin:0px; margin-top:.5em; }
+.tabfolder .tabfoldercontent { border-top:0px; font-size:84%; }
+.tabfolder .tabfoldercontent a  { text-decoration:underline;}
+.tabfolder .tabfoldertitle { padding-top:1em; }
+.tabtitlefield { font-weight:bold; padding:1px 0 1px .3em; font-size:84%;}
+.tabfolder .tabfoldercontent  {font-size:84%;border-width:1px;border-style:solid;border-top-width:0px;}
+.tabtitlefield { color:#fff;  }
+.tabtitlerow { background-color:#3d77cb; }
+.tabtitlespace {background-color:#FFF;}
+.filespanel td { border-top-style:solid; border-top-width:1px; }
+.filespanel td {border-top-color:#d1d1d1;}
+.alertbox { border-width:1px;border-style:solid;padding:.5em;}
+.alertbox p{margin-bottom:5}
+.alertbox h3{font-size:100%;margin:0 0 10 0;}
+.alertbox h3 span{font-weight:normal;}
+.alertbox em{font-style:normal;font-weight:bold;}
+table.composeview td.messagecontainer div.alertbox{margin:4px 0 10px 0;}
+td.messagecontainer div.alertbox{margin:0 0 10px 0;}
+table.optionsview div.alertbox{margin-right:16px;}
+div.alertbox{border-color:#E6E6E6;background-color:#F6F6F6;}
+table.composeview td.messagecontainer div.alertbox{margin:4px 0 10px 0;}
+div#quotameter div{border-color:#d6deec;background-color:#FFF;}
+#quotausagebar{border-color:#E6E6E6;}
+div.lowquota span#quotausagebar span.first{background:#DBEBC1 url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/qt_lo_1.gif) repeat-x center left;}
+div.mediumquota span#quotausagebar span.first{background:#F9E9B5 url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/qt_m_1.gif) repeat-x center left;}
+div.highquota span#quotausagebar span.first{background:#FFC1C1 url(http://us.i1.yimg.com/us.yimg.com/i/us/pim/r/medici/all/qt_hi_1.gif) repeat-x center left;}
+div.lightfill{background-color:#F6F6F6;border-top-color:#FFF;border-bottom-color:#C1C1C1;}
+div.darkfill{background-color:#E6E6E6;border-top-color:#FFF;border-bottom-color:#C1C1C1;}
+.smallroundedmodule{padding:0 4px;}
+.smallroundedmodule div{border-style:solid;border-width:1px;margin:-2px -4px;height:1em;}
+html>body .smallroundedmodule div{height:auto;}
+.smallroundedmodule div div{border-style:none;border-width:0;margin:0 4px;}
+.smallroundedmodule .first, .smallroundedmodule .last{position:relative;height:4px;margin:0;}			
+.smallroundedmodule .first{border-width:1px 0 0 0;}
+.smallroundedmodule .last{border-width:0 0 1px 0;}
+.smallroundedmodule .first .first, .smallroundedmodule .first .last{margin-top:-1px;}
+.smallroundedmodule .last .first, .smallroundedmodule .last .last{margin-bottom:-1px;}
+.smallroundedmodule .first .first, .smallroundedmodule .first .last, .smallroundedmodule .last .first, .smallroundedmodule .last .last{border:0;position:absolute;z-index:1;width:4px;background-repeat:no-repeat;}
+.smallroundedmodule .first .first, .smallroundedmodule .last .first{margin-left:-4px;}
+.smallroundedmodule .first .last, .smallroundedmodule .last .last{right:0px;margin-right:-4px;}
+#quotausagebar{position:relative;display:block;border-style:solid;border-width:1px;margin:2px 4px;height:1em;}
+#quotausagebar span.first{position:relative;height:100%;text-align:right;padding-right:5px;font:bold 78% verdana;}
+#quotausagebar span.last{text-align:left;font:bold 78% verdana;padding-left:5px;}
+html>body #quotausagebar span.last{display:block;width:auto;}
+#nonborder {background-color:#cccccc;}

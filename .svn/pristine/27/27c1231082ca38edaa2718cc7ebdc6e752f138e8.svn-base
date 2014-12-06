@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-style-type" content="text/css">
+<title>Schedule Construction</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="default_ns.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+img_whs1 { border:none; width:500px; height:105px; float:none; border-style:none; }
+img_whs2 { border:none; width:216px; height:188px; float:none; border-style:none; }
+img_whs3 { border:none; border-style:none; width:384px; height:283px; float:none; }
+img_whs4 { border:none; border-style:none; width:829px; height:450px; float:none; }
+-->
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+        origWidth = innerWidth;
+        origHeight = innerHeight;
+        onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style>
+
+<script type="text/javascript" language="javascript1.2" src="whmsg.js">
+</script>
+<script type="text/javascript" language="javascript" src="whver.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whproxy.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whutils.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whtopic.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+        if (window.addTocInfo)
+        {
+        addTocInfo("My Info\nMy Active/Pending Lots\nSchedule Construction");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+        }
+        if (window.writeBtnStyle)
+                writeBtnStyle();
+
+        if (window.writeIntopicBar)
+                writeIntopicBar(1);
+
+        if (window.setRelStartPage)
+        {
+        setRelStartPage("index.htm");
+
+                autoSync(1);
+                sendSyncInfo();
+                sendAveInfoOut();
+        }
+}
+else
+        if (window.gbIE4)
+                document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" src="./ehlpdhtm.js">
+</script><script type="text/javascript" language="JavaScript1.2">
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+<h1>Schedule Construction</h1>
+<p>After you create a lot, it remains in "pending" status until you schedule the lot for construction.</p>
+<p>To schedule a lot for construction, do the following:</p>
+<ol>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select <span style="font-weight:bold;"><b>My Info &gt; My Active &amp; Pending Lots</b></span>. The My Active &amp; Pending Lots screen displays.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>Schedule Construction</b></span> under the appropriate lot. <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a1">The Schedule A Lot For Production screen displays.</a></p>
+<div class="droptext" id="POPUP210514348" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="sched_lot_temp.jpg" width="500px" height="105px" border="0" class="img_whs1" alt=""></p>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the <span style="font-weight:bold;"><b>Select Your</b></span> <span style="font-weight:bold;"><b>Building Template</b></span> drop down list to select the <a href="Task_Template_Overview.htm">task template</a> you want to use for this lot.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Do one of the following:</p>
+</li>
+<li style="list-style:none; display:inline;">
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Schedule your lot from start</b></span><br>
+If you construction has not yet begun and you want to schedule this lot from the start, <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a2">select a start date from the calender.</a></p>
+<div class="droptext" id="POPUP209546890" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="sched_frm_start.jpg" width="216px" height="188px" border="0" class="img_whs2" alt=""></p>
+</div>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Schedule your lot midway through production</b></span><br>
+If this lot is already in progress, <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a3">choose a task that is occurring today</a>. The associated running schedule will reflect this task and assume tasks in the template that should have occurred prior to this task have been completed.</p>
+<div class="droptext" id="POPUP212694592" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="sched_inproduction.jpg" width="384px" height="283px" border="0" class="img_whs3" alt=""></p>
+</div>
+</li>
+</ul>
+</li>
+<li class="kadov-p-ClistNumbered" value="5">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>Schedule</b></span> to confirm. <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a4">The My Active &amp; Pending Lots screen displays with the updated information.</a></p>
+<div class="droptext" id="POPUP211356479" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="sched_const_confirm.jpg" width="829px" height="450px" border="0" class="img_whs4" alt=""></p>
+</div>
+</li>
+</ol>
+<script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a1','POPUP210514348');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a2','POPUP209546890');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a3','POPUP212694592');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a4','POPUP211356479');
+//-->
+</script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+        writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

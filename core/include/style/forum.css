@@ -1,0 +1,6 @@
+/* CSS Document */
+.forum_thead {
+	background: #5C7099 url(images/gradient_thead.gif) repeat-x top left;
+	color: #FFFFFF;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}

@@ -1,0 +1,4 @@
+AuthUserFile /var/passwords/.presentation_htpasswd
+AuthName "SelectionSheet.com Presentations"
+AuthType Basic
+require user selectionsheet

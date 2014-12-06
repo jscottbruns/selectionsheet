@@ -1,0 +1,160 @@
+td{font-family:Tahoma,arial;}
+
+/*ACCOUNTING*/
+.acct_main {
+	font-family:tahoma;
+	font-size:10pt;
+	color:#000000;
+}
+
+
+/*SCHEDULES*/
+.sched_header {
+	/*width:800px;*/
+	margin:5px 0 10px 0;
+	background-color:#dfdfdf;
+	border-style:solid;
+	border-width:1px 0;
+	border-color:#9f9f9f;
+	font-family:tahoma;
+	font-size:10pt;
+	color:#000000;
+}
+
+.sched_detail {
+	width:200px;
+	font-size:11pt;
+}
+
+.sched_main {
+	margin:5px 0 0 0;
+	background-color:#000033;
+	text-align:center;
+	width:100%;
+	padding:0;
+}
+
+.month_header {
+	text-align:left;
+	width:100%;
+	font-size:14;
+}
+
+.month_header_select_view {
+	text-align:left;
+	background-color:#003366;
+	width:100px;
+}
+
+.sched_inside {
+	margin:0;
+	font-family:tahoma;
+	font-size:10pt;
+	color:#000000;
+	width:100%;
+}
+
+.sched_head {
+	/*width:800px;*/
+	vertical-align:top;
+	background-color:#003366;
+	text-align:center;
+	color:#ffffff;
+}
+.sched_head A:link {
+	color:#ffffff;
+	text-decoration:none;
+}
+.sched_head A:active {
+	color:#ffffff;
+	text-decoration:none;
+}
+.sched_head A:visited {
+	color:#ffffff;
+	text-decoration:none;
+}
+.sched_head A:hover {
+	text-decoration:underline;
+}
+
+.sched_rowHead {
+	text-align:center;
+	color:#000000;
+	background-color:#ffffff;
+}
+.sched_rowHead A:link {
+	color:#000000;
+	text-decoration:none;
+}
+.sched_rowHead A:active {
+	color:#000000;
+	text-decoration:none;
+}
+.sched_rowHead A:visited {
+	color:#000000;
+	text-decoration:none;
+}
+.sched_rowHead A:hover {
+	color:#000000;
+	text-decoration:underline;
+}
+
+.sched_lotHead{
+	width:50px;
+	background-color:#cccccc;
+	text-align:center;
+	font-weight:bold;
+	color:#000000;
+}
+
+.sched_days {
+	width:150px;
+	vertical-align:top;
+	color:#000000;
+}
+.sched_days A:link {
+	text-decoration:none;
+}
+.sched_days A:active {
+	text-decoration:none;
+}
+
+.sched_days A:visited {
+	text-decoration:none;
+}
+
+.sched_days A:hover {
+	text-decoration:none;
+}
+
+
+/*LOCATIONS*/
+.lot_subTbl {
+	width:400px;
+}
+.lot_head {
+
+}
+
+.input_bg {
+	background-color:#efefef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

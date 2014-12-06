@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-style-type" content="text/css">
+<title>Add/Edit a Community</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="default_ns.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+p.whs1 { font-style:italic; }
+img_whs2 { border:none; width:15px; height:17px; float:none; border-style:none; }
+p.whs3 { font-style:italic; margin-left:0px; }
+-->
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+if ((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) == 4))
+{
+  var strNSS = "<style type='text/css'>";
+  strNSS += "p.whs3 {margin-left:1pt; }";
+  strNSS +="<\/style>";
+  document.write(strNSS);
+}
+//-->
+</script>
+<script type="text/javascript" language="JavaScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+        origWidth = innerWidth;
+        origHeight = innerHeight;
+        onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style>
+
+<script type="text/javascript" language="javascript1.2" src="whmsg.js">
+</script>
+<script type="text/javascript" language="javascript" src="whver.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whproxy.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whutils.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whtopic.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+        if (window.addTocInfo)
+        {
+        addTocInfo("My Info\nMy Communities\nAdd/Edit a Community");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+        }
+        if (window.writeBtnStyle)
+                writeBtnStyle();
+
+        if (window.writeIntopicBar)
+                writeIntopicBar(1);
+
+        if (window.setRelStartPage)
+        {
+        setRelStartPage("index.htm");
+
+                autoSync(1);
+                sendSyncInfo();
+                sendAveInfoOut();
+        }
+}
+else
+        if (window.gbIE4)
+                document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" src="./ehlpdhtm.js">
+</script><script type="text/javascript" language="JavaScript1.2">
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+<h1>Add/Edit a Community</h1>
+<p>A community is a location designated by name, city, county, state and zip code, and consists of one or more buildable lots. You can create and store an unlimited number of communities.</p>
+<p class="whs1"><a class="dropspot" href="javascript:kadovTextPopup(this)" id="a2" style="font-style:italic;"><span style="font-weight:bold; font-style:italic;"><i><b><img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs2" alt=""> Note:</b></i></span> In order to create lots and running schedules...</a></p>
+<div class="droptext" id="POPUP206009148" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs3"><span style="font-style:italic;"><i>...you must first <a href="Add_Edit_a_Community.htm">create a community</a>.</i></span></p>
+</div>
+<p>To add or edit a community, do the following:</p>
+<ol>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select <span style="font-weight:bold;"><b>My Info &gt; My Communities</b></span>. The My Communities screen displays.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Do one of the following:</p>
+</li>
+<li style="list-style:none; display:inline;">
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">If no communities exist, proceed to <span style="font-weight:bold;"><b>Step 3</b></span>.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">Click <span style="font-weight:bold;"><b>Add A New Community</b></span> <span>or c</span>lick the name of the community you wish to edit.</p>
+</li>
+</ul>
+</li>
+<li class="kadov-p-ClistNumbered" value="3">
+<p class="listNumbered">Complete the fields as necessary.<a class="dropspot" href="javascript:kadovTextPopup(this)" id="a1"><span style="font-weight:bold; font-style:italic;"><i><b><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs2" alt=""> Note:</b></i></span> <span style="font-style:italic; font-weight:normal;"><i>Fields with an</i></span> <span style="font-style:italic; font-weight:bold;"><i><b>*</b></i></span><span style="font-style:italic; font-weight:normal;"><i>must be completed...</i></span></a></p>
+<div class="droptext" id="POPUP88248427" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs1">...in order to save the community information.</p>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>UPDATE</b></span> or <span style="font-weight:bold;"><b>SUBMIT</b></span> to save. The My Communities screen displays with the updated community information.</p>
+</li>
+</ol>
+<script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a2','POPUP206009148');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a1','POPUP88248427');
+//-->
+</script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+        writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<header>vsftpd</header>
+
+<style type="text/css">
+<!--
+.Stil1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.Stil2 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="justify" class="Stil1">This script will configure you vsftpd server</p>
+<p align="justify" class="Stil1"><em>-GENERALLY-</em></p>
+<p align="justify" class="Stil1">&bull; <strong>File Unmask</strong>: Chmod of the new uploaded files <br>
+&bull; <strong>Idle session timout</strong>: When do you want to disconnect an active ftp session<br>
+&bull; <strong>Data connection timeout</strong>: When to disconnect a single upload/download file <br>
+&bull; <strong>Welcome Banner Text</strong>: Your special text when connecting to the server<br>
+&bull; <strong>FTP Username</strong>: Unique and unprivileged user<br>
+</p>
+<p align="justify" class="Stil1"><em>- Anonymous FTP- </em></p>
+<p align="justify" class="Stil1">&bull; Here you can set what Anonmyous User can do or not can do.</p>
+<p align="justify" class="Stil1"><em>- Local User -</em></p>
+<p align="justify" class="Stil1">&bull; Here you can set what Local Users can do or not can do.</p>
+<p align="justify" class="Stil1"><em>- Log Infos-</em></p>
+<p align="justify" class="Stil1">&bull; Here you can set the Login Style of your ftp server.<br>
+&bull; Optionally you can set webalizer logging fpr your ftp server</p>
+<p align="justify" class="Stil1"><em>- Miscellaneous - </em></p>
+<p align="justify" class="Stil1">&bull; <strong>Force dot files</strong>: Should we show dot files like .htacces in the ftp directory ?<br>
+&bull; <strong>Listen address</strong>: On which IP address vsftpd will listen on<br>
+&bull; <strong>Hide Files</strong>: Add files which will not be shown here. When using more than one file add like the following example: {folder,*.mp3,stats*}<br>
+&nbsp;&nbsp;<span class="Stil2">Note</span>: With more than one file user the {} method !!! Put the files between this two brakes. With just one file to hide don`t use {} !!!</p>
+<p align="justify" class="Stil1">&bull; <strong>Anon max rate in Bytes/sec</strong>: The speed Anonymous Users can up and/or download files.<br>
+&bull; <strong>Local max rate in Bytes/sec</strong>: The speed Local Users can up and download files. </p>
+<p align="justify" class="Stil1"><em>-Manual entries-</em></p>
+<p align="justify" class="Stil1">&bull; Here you can make changes directly on the vsftpd.conf file</p>
+<p align="justify" class="Stil1"><a href="javascript:print();">print me</a></p>
+

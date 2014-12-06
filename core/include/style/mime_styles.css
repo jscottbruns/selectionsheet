@@ -1,0 +1,43 @@
+/* CSS Document */
+a {
+	font-size: 85%;
+	color: #0000ff;
+}
+table {
+	border: 1px #ddddff solid;
+	background-color: #ffffff;
+}
+.head1 {
+	width: 50px;
+	font-size: 80%;
+}
+.head2 {
+	font-size: 85%;
+	width: 150px;
+}
+.head3 {
+	width: 150px;
+}
+.head4 {
+	font-size: 85%;
+	width: 140px;
+}
+.head5 {
+	font-size: 85%;
+	width: 50px;
+}
+.head {
+	font-weight: bold;
+	background-color: #ddddff;
+	height:24px;
+}
+h2 {
+	color: #5555ff;
+}
+.delbutton {
+	width: 50px;
+	background-color: #eeeeee;
+	font-size: 70%;
+	color: #000000;
+	height: 20px;
+}

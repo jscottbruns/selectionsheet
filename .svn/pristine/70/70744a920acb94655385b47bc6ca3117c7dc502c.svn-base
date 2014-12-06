@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<TITLE>SelectionSheet :: Real Time&hellip;Build Time :: Construction Management</TITLE>
+
+<script language="JavaScript">
+function popUp(winurl,winname,winfeatures) {
+	window.open(winurl,winname,winfeatures);
+}
+
+</script>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style></head>
+<body bgcolor="#ffffff">
+<!--url's used in the movie-->
+<!--text used in the movie-->
+<table align="center">
+<tr>
+<td>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="1024" height="768" id="productpath" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="productpath.swf" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="productpath.swf" quality="high" bgcolor="#ffffff" width="1024" height="768" name="productpath" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</td>
+</tr>
+</table>
+</body>
+</html>

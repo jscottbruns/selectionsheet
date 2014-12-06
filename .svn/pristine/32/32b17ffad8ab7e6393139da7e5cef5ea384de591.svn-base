@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/vpopmail/bin
+./vadduser $1 $2

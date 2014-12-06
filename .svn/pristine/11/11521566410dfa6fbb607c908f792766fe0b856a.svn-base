@@ -1,0 +1,204 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-style-type" content="text/css">
+<title>Edit a Task Template</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="default_ns.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+p.whs1 { color:#000000; font-weight:normal; }
+img_whs2 { border:none; border-style:none; width:829px; height:476px; float:none; }
+img_whs3 { border:none; border-style:none; width:805px; height:420px; float:none; }
+img_whs4 { border:none; border-style:none; width:711px; height:436px; float:none; }
+img_whs5 { border:none; width:15px; height:17px; float:none; border-style:none; }
+p.whs6 { font-style:italic; }
+img_whs7 { border:none; border-style:none; width:750px; height:322px; float:none; }
+-->
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+        origWidth = innerWidth;
+        origHeight = innerHeight;
+        onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style>
+
+<script type="text/javascript" language="javascript1.2" src="whmsg.js">
+</script>
+<script type="text/javascript" language="javascript" src="whver.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whproxy.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whutils.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whtopic.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+        if (window.addTocInfo)
+        {
+        addTocInfo("My Info\nMy Task Templates\nEdit a Task Template");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+        }
+        if (window.writeBtnStyle)
+                writeBtnStyle();
+
+        if (window.writeIntopicBar)
+                writeIntopicBar(1);
+
+        if (window.setRelStartPage)
+        {
+        setRelStartPage("index.htm");
+
+                autoSync(1);
+                sendSyncInfo();
+                sendAveInfoOut();
+        }
+}
+else
+        if (window.gbIE4)
+                document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" src="./ehlpdhtm.js">
+</script><script type="text/javascript" language="JavaScript1.2">
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+<h1>Edit a Task Template</h1>
+<p class="whs1">To edit a task template, do the following:</p>
+<ol>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select <span style="font-weight:bold;"><b>My Info &gt; My Task Templates</b></span>. The <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a2">My Task Templates screen displays.</a></p>
+<div class="droptext" id="POPUP207918627" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="mytasktemp.jpg" width="829px" height="476px" border="0" class="img_whs2" alt=""></p>
+</div>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select the task template you want to edit. The <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a3">My Tasks screen displays.</a></p>
+<div class="droptext" id="POPUP206370001" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="edittask1.jpg" width="805px" height="420px" border="0" class="img_whs3" alt=""></p>
+</div>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">To change the template name, enter the new name in the <span style="font-weight:bold;"><b>Rename Task Template</b></span> field and click <span style="font-weight:bold;"><b>Go</b></span>.</p>
+</li>
+<li style="color:#000000; font-weight:normal;" class="kadov-p-ClistNumbered">
+<p class="listNumbered">To add a task to this template, click <span style="font-weight:bold;"><b>Add A New Task</b></span> and follow the prompts.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">To edit task detail, select a task from the list on the left-hand side of the screen. <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a1">The Edit / Archive My Task summary screen displays.</a><br>
+You can edit the task detail by doing the following:</p>
+<div class="droptext" id="POPUP207569985" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="edit_archive_task.jpg" width="711px" height="436px" border="0" class="img_whs4" alt=""></p>
+</div>
+</li>
+<li style="list-style:none; display:inline;">
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">To change the task name, click the <span style="font-weight:bold;"><b>Task Name</b></span> tab, enter a new name in the <span style="font-weight:bold;"><b>Task Name</b></span> field, and click <span style="font-weight:bold;"><b>UPDATE</b></span>.</p>
+</li>
+</ul>
+</li>
+<li style="list-style:none; display:inline;">
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">To change the task duration, click the <span style="font-weight:bold;"><b>Duration</b></span> tab, enter a new duration, and click <span style="font-weight:bold;"><b>UPDATE</b></span>.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">To change the task phase (the day on which you want this task to start) click the <span style="font-weight:bold;"><b>Phase</b></span> tab, find and select the day you want and click <span style="font-weight:bold;"><b>PREVIEW</b></span>. Then, click <span style="font-weight:bold;"><b>DONE</b></span> <span>if you want to accept the changes.</span><a class="dropspot" href="javascript:kadovTextPopup(this)" id="a4" style="font-style:italic;"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs5" alt=""> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span> If this task has post task relationships...</a></p>
+<div class="droptext" id="POPUP207318865" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs6">...those tasks defined as Post Task Relationships (Critical Path) will move according to your task. To move your task more freely, you can click <span style="font-weight:bold;"><b>Release Post Task Relationships</b></span>.</p>
+</div>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">To add sub tasks, click the Sub Tasks tab, enter the sub task information, and click <span style="font-weight:bold;"><b>UPDATE</b></span><span>.</span><a class="dropspot" href="javascript:kadovTextPopup(this)" id="a5" style="font-style:italic;"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs5" alt=""> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span> On the Sub Task screen you can...</a></p>
+<div class="droptext" id="POPUP207589879" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs6">...specify the name of the sub task and when the sub task should occur in relation to the main task (number of days before, number days after, or on same day as).</p>
+<p class="whs6"><img src="addsubtask.jpg" width="750px" height="322px" border="0" class="img_whs7" alt=""></p>
+</div>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">To add reminders to this task, click the <span style="font-weight:bold;"><b>Reminder</b></span> tab and select the tasks you would like to link to this task. Then, click <span style="font-weight:bold;"><b>UPDATE</b></span>.<a class="dropspot" href="javascript:kadovTextPopup(this)" id="a6" style="font-style:italic;"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs5" alt=""> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span> Reminders allow you to...</a></p>
+<div class="droptext" id="POPUP206952807" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs6">...be notified when related tasks are completed. Multiple reminders can be tagged to one task. This allows you to confirm a group of tasks.</p>
+</div>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">To add or change pre task relationships, click the <span style="font-weight:bold;"><b>Pre Task Relationships</b></span> tab and click <span style="font-weight:bold;"><b>EDIT</b></span>. Check the boxes that are prerequisites to the task and click <span style="font-weight:bold;"><b>UPDATE</b></span>.<a class="dropspot" href="javascript:kadovTextPopup(this)" id="a7"><span style="font-style:italic;"><i><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs5" alt=""></i></span> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span><span style="font-style:italic;"><i>These are tasks that...</i></span></a></p>
+<div class="droptext" id="POPUP206944238" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs6">...be completed <span style="font-weight:bold; text-decoration:underline;"><u><b>before</b></u></span> the task in bold can occur.</p>
+</div>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-style:normal;">To add or change post task relationships, click the <span style="font-weight:bold;"><b>Post Task Relationships</b></span> tab and click <span style="font-weight:bold;"><b>EDIT</b></span>. Check the boxes that must be completed after this task and click <span style="font-weight:bold;"><b>UPDATE</b></span>.</p>
+</li>
+</ul>
+</li>
+</ol>
+<script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a2','POPUP207918627');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a3','POPUP206370001');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a1','POPUP207569985');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a4','POPUP207318865');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a5','POPUP207589879');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a6','POPUP206952807');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a7','POPUP206944238');
+//-->
+</script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+        writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

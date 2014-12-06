@@ -1,0 +1,38 @@
+<country type="root" value="United States of America" url="content.asp?page=usa">
+	<states type="folder" value="States" url="content.asp?page=states">
+		<state type="document" url="content.asp?page=ca" value="California"/>
+		<state type="document" url="content.asp?page=nj" value="New Jersey"/>
+		<state type="document" url="content.asp?page=az" value="Arizona"/>
+	</states>
+	<hist_fig type="folder" value="Historical Figures" url="content.asp?page=histfig">
+		<figure type="document" value="George Washington" url="content.asp?page=george"/>
+		<figure type="document" value="Thomas Jefferson" url="content.asp?page=tom"/>
+	</hist_fig>
+	<history type="folder" value="History" url="content.asp?page=history">
+		<Cent20 type="folder" url="content.asp?page=20th" value="20th Century">
+			<inventions type="folder" url="content.asp?page=inv" value="Inventions">
+				<technologies type="folder" url="content.asp?page=tec" value="Technology">
+					<radio type="folder" url="content.asp?page=radio" value="Radio">
+						<bground type="document" url="content.asp?page=invprof" value="Inventor Profile"/>
+						<bground type="document" url="content.asp?page=first" value="First Use"/>
+					</radio>
+					<computers type="folder" url="content.asp?page=computers" value="Computers">
+						<begin type="folder" url="content.asp?page=begin" value="Beginnings">
+							<summary type="document" url="content.asp?page=sum" value="Summary"/>
+							<transistor type="folder" url="content.asp?page=trans" value="Transistor">
+								<trans type="document" url="content.asp?page=inventor" value="Inventor"/>
+								<trans type="document" url="content.asp?page=app" value="Applications"/>
+							</transistor>
+						</begin>
+					</computers>
+				</technologies>
+			</inventions>
+			<wars type="folder" url="content.asp?page=wars" value="Wars">
+				<war type="document" url="content.asp?page=wwi" value="World War I"/>
+				<war type="document" url="content.asp?page=wwii" value="World War II"/>
+				<war type="document" url="content.asp?page=viet" value="Vietnam"/>
+			</wars>
+		</Cent20>
+		<Cent21 type="folder" url="content.asp?page=21st" value="21st Century"/>
+	</history>
+</country>

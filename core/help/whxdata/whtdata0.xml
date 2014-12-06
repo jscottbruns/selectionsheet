@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+<tocdata>
+<item name="Introduction" url="Overview/Introduction_to_SelectionSheet.htm" />
+<book name="Getting Started" >
+  <item name="Using this Online Help System" url="Overview/Using_this_Online_Help_System.htm" />
+  <item name="Home Screen" url="Home_Screen.htm" />
+  <item name="SelectionSheet Menus" url="Overview/SelectionSheet_Menus.htm" />
+  <item name="Update Account Options" url="Update_Account_Options.htm" />
+  <item name="Logout" url="Overview/Logout.htm" />
+</book>
+<book name="My Info" >
+  <book name="My Communities" >
+    <item name="Add/Edit a Community" url="Add_Edit_a_Community.htm" />
+  </book>
+  <book name="My Active/Pending Lots" >
+    <item name="Add/Edit Lot" url="Add_Edit_Lot.htm" />
+    <item name="Schedule Construction" url="Schedule_Construction.htm" />
+  </book>
+  <book name="My Completed Lots" >
+    <item name="View/Update/Print Completed Lots" url="View_Completed_Lots.htm" />
+  </book>
+  <book name="My Subcontractors" >
+    <item name="Add/Edit Subcontractor" url="Add_New_Subcontractor.htm" />
+  </book>
+  <book name="My Task Templates" >
+    <item name="My Task Templates Overview" url="Task_Template_Overview.htm" />
+    <item name="Create a New Task Template " url="Create_a_Task_Template.htm" />
+    <item name="Copy a Task Template" url="Copy_a_Task_Template.htm" />
+    <item name="Edit a Task Template" url="Edit_a_Task_Template.htm" />
+    <item name="Share a Task Template" url="Share_Task_Templates.htm" />
+  </book>
+</book>
+<book name="Schedules" >
+  <item name="Running Schedules" url="View_Update_Running_Schedules.htm" />
+  <item name="Appointments" url="Add_Edit_Appointments.htm" />
+</book>
+<book name="Reports" >
+  <item name="Create Report" url="Create_a_Report.htm" />
+</book>
+<book name="Correspond" >
+  <item name="Discussion Forum" url="Discussion_Forum.htm" />
+  <item name="Check &amp; Send Email" url="Check_Send_Email.htm" />
+  <item name="Contact SelectionSheet" url="Contact_SelectionSheet.htm" />
+</book>
+
+</tocdata>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+		<tasks>
+			<task>
+				<task_id>10800</task_id>
+				<task_name>Form Footings</task_name>
+				<task_phase>4</task_phase>
+				<task_duration>1</task_duration>
+				<task_bank>10807</task_bank>
+			</task>
+			<task>
+				<task_id>22902</task_id>
+				<task_tag>22901</task_tag>
+			</task>
+			<task>
+				<task_id>12900</task_id>
+				<task_name>Task 1</task_name>
+				<task_phase>2</task_phase>
+				<task_duration>1</task_duration>
+			</task>
+			<task>
+				<task_id>22900</task_id>
+				<task_name>Reminder 1</task_name>
+				<task_phase>1</task_phase>
+				<task_duration>1</task_duration>
+			</task>
+			<task>
+				<task_id>12901</task_id>
+				<task_name>Task 2</task_name>
+				<task_phase>2</task_phase>
+				<task_duration>1</task_duration>
+			</task>
+			<task>
+				<task_id>22901</task_id>
+				<task_name>Reminder 2</task_name>
+				<task_phase>1</task_phase>
+				<task_duration>1</task_duration>
+			</task>
+			<task>
+				<task_id>12902</task_id>
+				<task_name>Task 3</task_name>
+				<task_phase>3</task_phase>
+				<task_duration>1</task_duration>
+			</task>
+		</tasks>

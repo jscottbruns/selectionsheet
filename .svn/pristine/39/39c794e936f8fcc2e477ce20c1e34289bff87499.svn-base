@@ -1,0 +1,5 @@
+.handover {cursor:hand;}
+.flag {font-weight:bold;color:#ff0000;}
+.normal {color:#000000;}
+.green {font-weight:bold;color:green;}
+.normal_bold {font-weight:bold;color:#000000;}

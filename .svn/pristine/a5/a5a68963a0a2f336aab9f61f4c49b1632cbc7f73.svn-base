@@ -1,0 +1,103 @@
+#chromemenu{
+width: 99%;
+}
+
+#chromemenu:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+#chromemenu ul{
+border: 1px solid #BBB;
+width: 100%;
+background: url(chromebg.gif) center center repeat-x; /*Theme Change here*/
+margin-left: 0;
+padding-left: 0;
+margin: 0;
+float: left;
+font: bold 12px Verdana;
+}
+
+
+#chromemenu ul li{
+display: inline;
+}
+
+
+#chromemenu ul li a{
+float: left;
+color: #7F7F7F;
+font-weight: bold;
+padding: 6px 12px 6px 7px;
+text-decoration: none;
+background: url(divider.gif) center right no-repeat; /*Theme Change here*/
+}
+
+#chromemenu ul li a:hover{
+color: #494949;
+}
+
+#chromemenu ul li a[onMouseover]:after{ /*HTML to indicate drop down link*/
+content: " v";
+/*content: " " url(downimage.gif); /*uncomment this line to use an image instead*/
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+position:absolute;
+top: 0;
+border: 1px solid #BBB; /*Theme Change here*/
+border-bottom-width: 0;
+font:normal 11px Verdana;
+line-height:18px;
+z-index:100;
+background-color: white;
+width: 200px;
+visibility: hidden;
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4); /*Add Shadow in IE. Remove if desired*/
+}
+
+.dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB; /*Theme Change here*/
+padding: 2px 0;
+text-decoration: none;
+font-weight: bold;
+color: black;
+}
+
+.dropmenudiv a:hover{ /*Theme Change here*/
+background-color: #F0F0F0;
+}
+
+.dropmenudiv_iframe{
+position:absolute;
+top: 0;
+font:normal 12px Verdana;
+line-height:18px;
+z-index:100;
+background-color: #DFDFDF;
+width: 200px;
+}
+
+.dropmenudiv_iframe a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB; /*Theme Change here*/
+text-decoration: none;
+font-weight: bold;
+color: black;
+padding: 2px 0;
+}
+
+.dropmenudiv_iframe a:hover{ /*Theme Change here*/
+background-color: #FFC709;
+}
+

@@ -1,0 +1,68 @@
+<html>
+<head>
+<script text='text/css'>
+function gothere(url)
+{
+	document.forms[0].action = url;
+	document.forms[0].submit();
+}
+</script>
+<style type='text/css'>
+body {
+	scrollbar-base-color: #eeeeff;
+	background-image: url(stripes.gif);
+}
+table {
+	background-color: #ffffff;
+	border: 1px #aaaaff solid;
+}
+td {
+	font-weight: bold;
+	font-size: 80%;
+}
+.buttons {
+	width: 100px;
+	background-color: #eeeeff;
+}
+.passinput {
+	border: 1px #4444ff solid;
+} 
+</style>
+</head>
+<body>
+<center>
+<form action='xxx.php' method='post'>
+<table cellpadding='6' cellpadding='0'>
+  <tbody>
+    <tr>
+      <td>
+	Password:
+      </td>
+      <td>
+	<input class='passinput' type='text' name='password' value='Not required at present'>
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Select mailbox:
+      </td>
+      <td>
+	<select name='boxname'>
+	<option value='bob@simpsonscripts.com' selected>Bob</option>
+	<option value='webmaster@simpsonscripts.com'>Webmaster</option>
+	<option value='postmaster@simpsonscripts.com'>Postmaster</option>
+      </td>
+    </tr>
+    <tr>
+      <td colspan='2' align='center'>
+	<input class='buttons' type='button' value='Get mail' onclick="javascript:gothere('get_pop3.php')">
+	<input class='buttons' type='button' value='Send mail' onclick="javascript:gothere('send_pop3.php')">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</form>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,283 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="content-style-type" content="text/css">
+<title>Copy a Task Template</title>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<meta name="generator" content="RoboHelp by eHelp Corporation www.ehelp.com">
+<link rel="stylesheet" href="default_ns.css" type="text/css">
+<script type="text/javascript" language="JavaScript">
+<!--
+if (navigator.appName !="Netscape")
+{   document.write("<link rel='stylesheet' href='default.css'>");}
+//-->
+</script>
+<style type="text/css">
+<!--
+p.whs1 { color:#000000; font-weight:normal; }
+img_whs2 { border:none; width:20px; height:20px; border-style:none; }
+img_whs3 { border:none; width:15px; height:17px; float:none; border-style:none; }
+p.whs4 { font-style:italic; }
+img_whs5 { border:none; border-style:none; width:300px; height:28px; float:none; }
+img_whs6 { border:none; border-style:none; width:377px; height:488px; float:none; }
+img_whs7 { border:none; border-style:none; width:754px; height:115px; float:none; }
+img_whs8 { border:none; border-style:none; width:433px; height:268px; float:none; }
+-->
+</style>
+
+<script type="text/javascript" language="JavaScript">
+<!--
+function reDo() {
+  if (innerWidth != origWidth || innerHeight != origHeight)
+     location.reload();
+}
+if ((parseInt(navigator.appVersion) == 4) && (navigator.appName == "Netscape")) {
+        origWidth = innerWidth;
+        origHeight = innerHeight;
+        onresize = reDo;
+}
+onerror = null; 
+//-->
+</script>
+<style type="text/css">
+<!--
+div.WebHelpPopupMenu { position:absolute; left:0px; top:0px; z-index:4; visibility:hidden; }
+-->
+</style>
+
+<script type="text/javascript" language="javascript1.2" src="whmsg.js">
+</script>
+<script type="text/javascript" language="javascript" src="whver.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whproxy.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whutils.js">
+</script>
+<script type="text/javascript" language="javascript1.2" src="whtopic.js">
+</script>
+</head>
+<body>
+<script type="text/javascript" language="javascript1.2">
+<!--
+if (window.gbWhTopic)
+{
+        if (window.addTocInfo)
+        {
+        addTocInfo("My Info\nMy Task Templates\nCopy a Task Template");
+addButton("show",BTN_TEXT,"Show","","","","",0,0,"","","");
+
+        }
+        if (window.writeBtnStyle)
+                writeBtnStyle();
+
+        if (window.writeIntopicBar)
+                writeIntopicBar(1);
+
+        if (window.setRelStartPage)
+        {
+        setRelStartPage("index.htm");
+
+                autoSync(1);
+                sendSyncInfo();
+                sendAveInfoOut();
+        }
+}
+else
+        if (window.gbIE4)
+                document.location.reload();
+//-->
+</script><script type="text/javascript" language="JavaScript1.2" src="./ehlpdhtm.js">
+</script><script type="text/javascript" language="JavaScript1.2">
+<!-- 
+if( typeof( kadovFilePopupInit ) != 'function' ) kadovFilePopupInit = new Function();if( typeof( kadovTextPopupInit ) != 'function' ) kadovTextPopupInit = new Function();
+ //-->
+</script>
+<h1>Copy a Task Template</h1>
+<p class="whs1">You can use an existing task template as the basis for a new task template. This saves time when creating similar templates.</p>
+<p>To use an existing template as the basis for your new template, do the following:</p>
+<ol>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Select <span style="font-weight:bold;"><b>My Info &gt; My Task Templates</b></span>. The My Task Templates screen displays.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>Create a New Task Template</b></span>. The Create a New Task Template screen displays.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>Copy from an existing template</b></span>. The Create a New Task Template From an Existing Template screen displays.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the drop down list to select the task template you want to copy.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Do one of the following:</p>
+</li>
+<li style="list-style:none; display:inline;">
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">Select the <span style="font-weight:bold;"><b>Completed Task Template</b></span> radio button to create the template with the task relationships in place, allowing you to start scheduling lots immediately.<br>
+Then, specify whether or not to include specific tasks. Tasks with <img src="image2.gif" width="20px" height="20px" border="0" class="img_whs2" alt=""> are included, tasks with <img src="image3.gif" width="20px" height="20px" border="0" class="img_whs2" alt=""> are not included.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted">Select the <span style="font-weight:bold;"><b>Template Builder</b></span> radio button to view and change the tasks within the template builder spread sheet. <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a1" style="font-style:italic;"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs3" alt=""> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span> If you select Template Builder, the new template...</a></p>
+<div class="droptext" id="POPUP211170899" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs4">...will not &#160;contain any relationships (critical path).</p>
+</div>
+</li>
+</ul>
+</li>
+<li class="kadov-p-ClistNumbered" value="6">
+<p class="listNumbered">In the <span style="font-weight:bold;"><b>Template Name</b></span> field, enter a name for your template and click <span style="font-weight:bold;"><b>CREATE NEW TEMPLATE</b></span>.<br>
+If you selected Completed Task Template in Step 5, this procedure is now complete. If you selected Template Builder, proceed to the next step.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">You will now create the tasks to include in the template.<a class="dropspot" href="javascript:kadovTextPopup(this)" id="a2" style="font-style:italic;"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs3" alt=""> <span style="font-weight:bold; font-style:italic;"><i><b>Note:</b></i></span><span style="font-style:italic;"><i>The Template Builder autosaves...</i></span></a></p>
+<div class="droptext" id="POPUP211978356" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs4">...depending on the setting in the <span style="font-weight:bold;"><b>AutoSave Every</b></span> pull down list. Specify the autosave interval by selecting:</p>
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-style:italic;">5 Min (default)</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-style:italic;">10 Min</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-style:italic;">30 Min</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-style:italic;">10 Seconds</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted" style="font-style:italic;">Never</p>
+</li>
+</ul>
+<p class="whs4"><img src="autosave.jpg" width="300px" height="28px" border="0" class="img_whs5" alt=""></p>
+<p class="whs4">When the specified amount of time elapses, the system saves any changes made and refreshes the screen.</p>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">In the <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a8">Insert New Task Box</a>, in the <span style="font-weight:bold;"><b>Task Name</b></span> field, enter a name for the task.</p>
+<div class="droptext" id="POPUP212217121" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="insertnewtaskbox.jpg" width="377px" height="488px" border="0" class="img_whs6" alt=""></p>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">In the <span style="font-weight:bold;"><b>Phase</b></span> field, enter a number representing the production day on which you want this task to start.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the <span style="font-weight:bold;"><b>Duration</b></span> drop down list to specify the number of days this task should take.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the <span style="font-weight:bold;"><b>Task Type</b></span> drop down list to <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a9">specify the type of task that will be performed</a>.</p>
+<div class="droptext" id="POPUP213302624" style="display:'none'; x-ss-type:dropdown;">
+<p>Below are the available options:</p>
+<ul>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Labor (General Task)</b></span><br>
+Use this option if you want to create a labor-related task. For example, an Installation task for installing Doors &amp; Windows.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>General Reminder</b></span><br>
+Use this option if you want to create a reminder only task.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Delivery</b></span><br>
+Use this option if the task involves delivery of materials. For example, the delivery Doors &amp; Windows.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Delivery Reminder/Order Materials</b></span><br>
+Use this option if you need to be reminded to schedule delivery or order materials.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Inspection</b></span><br>
+Use this option if the task is for an inspection. For example, inspection of exterior structures.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Inspection Reminder</b></span><br>
+Use this option if you need to be reminded that an inspection is needed or to plan for an inspection.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Appointment</b></span><br>
+Use this option if you need to plan an appointment. For example, an appointment with the new home owner for a walk through.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Paperwork</b></span><br>
+Use this option for paperwork tasks. For example, paperwork required for obtaining permits.</p>
+</li>
+<li class="kadov-p-ClistBulleted">
+<p class="listBulleted"><span style="font-weight:bold;"><b>Other Task</b></span><br>
+Use this option if the task does not fall into any of the above categories.</p>
+</li>
+</ul>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the <span style="font-weight:bold;"><b>Parent Category</b></span> drop down list to specify the category to which this task is most closely related.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Use the <span style="font-weight:bold;"><b>Sub Tasks</b></span> section to add sub tasks to this task. Select a sub task category, then enter a name, phase, and duration for the sub task. Sub tasks can be configured later.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>Insert Task</b></span> to insert the task into the task template.</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">(Optional) Repeat steps 7-14 as needed. When you are finished creating and moving your tasks within the template builder, you will create task relationships (critical paths).</p>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Click <span style="font-weight:bold;"><b>Create My Task Relationships</b></span>. <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a3">A prompt displays.</a></p>
+<div class="droptext" id="POPUP214328782" style="display:'none'; x-ss-type:dropdown;">
+<p><img src="prompt.jpg" width="754px" height="115px" border="0" class="img_whs7" alt=""></p>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">If you are sure you want to proceed, click <span style="font-weight:bold;"><b>OK</b></span>. You can not go back once you click <span style="font-weight:bold;"><b>OK</b></span>. <a class="dropspot" href="javascript:kadovTextPopup(this)" id="a10">The Define Your Task Relationships screen displays.</a></p>
+<div class="droptext" id="POPUP212164994" style="display:'none'; x-ss-type:dropdown;">
+<p class="whs4"><span style="font-style:normal;">On this screen, you will define task relationships (critical paths). Your primary tasks created with the Template Builder are shown in the left column, with their production day in ().</span></p>
+<p class="whs4"><img src="relationship_next.jpg" width="433px" height="268px" border="0" class="img_whs8" alt=""></p>
+</div>
+</li>
+<li class="kadov-p-ClistNumbered">
+<p class="listNumbered">Starting with the first task, check the boxes that are prerequisites to the task. These are tasks that must be completed <span style="font-weight:bold; text-decoration:underline;"><u><b>before</b></u></span> the task in bold can occur. Then, click <span style="font-weight:bold;"><b>NEXT</b></span> and repeat this step for each task.<a class="dropspot" href="javascript:kadovTextPopup(this)" id="a11"><br>
+<img src="images/ex_blue_sm.jpg" width="15px" height="17px" border="0" class="img_whs3" alt=""> <span style="font-weight:bold;"><b>Note:</b></span> Once you assign the task in bold its relationships...</a></p>
+<div class="droptext" id="POPUP212022151" style="display:'none'; x-ss-type:dropdown;">
+<p>...it will be grayed out. You can always <a href="Edit_a_Task_Template.htm">edit and change your tasks relationships</a> later.</p>
+</div>
+</li>
+</ol>
+<script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a1','POPUP211170899');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a2','POPUP211978356');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a8','POPUP212217121');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a9','POPUP213302624');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a3','POPUP214328782');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a10','POPUP212164994');
+//-->
+</script><script language="javascript1.2" type="text/javascript">
+<!--
+kadovTextPopupInit('a11','POPUP212022151');
+//-->
+</script><script type="text/javascript" language="javascript1.2">
+<!--
+if (window.writeIntopicBar)
+        writeIntopicBar(0);
+//-->
+</script>
+</body>
+</html>

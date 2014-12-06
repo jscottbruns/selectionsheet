@@ -1,0 +1,24 @@
+#dropmenudiv_sched{
+position:absolute;
+border:1px solid #8c8c8c;
+border-bottom-width: 0;
+line-height:18px;
+z-index:100;
+background-color:#DFDFDF;
+font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+
+#dropmenudiv_sched a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #8c8c8c;
+padding: 1px 0;
+text-decoration: none;
+background-color:#ffffff;
+color:#000000
+}
+
+#dropmenudiv_sched a:hover{ 
+background-color: #FFC709;
+}
